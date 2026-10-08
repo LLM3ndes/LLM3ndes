@@ -27,7 +27,7 @@ Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Linguagens & Web** | `Python`, `SQL`, `C# (POO/SOLID)`, `JavaScript`, `HTML5`, `CSS3` |
-| **Automação & Dados** | `Pandas`, `NumPy`, `Excel Avançado (Macros/VBA)`, `Power BI`, `TDD` |
+| **Automação & Dados** | `Pandas`, `NumPy`, `Excel (Macros/VBA)`, `Power BI`, `TDD` |
 | **Inteligência Artificial** | `Engenharia de Prompts`, `LLMs (ChatGPT, Gemini, Claude)`, `Automações com IA` |
 | **Infraestrutura & Segurança** | `Linux (Terminal/Bash)`, `Git & GitHub`, `Cibersegurança`, `Suporte a Hardware/Redes` |
 | **Sistemas Corporativos** | `SAP`, `RM`, `SGI`, `Governança de TI` |
