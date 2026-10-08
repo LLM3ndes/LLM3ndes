@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Sobre Mim & Proposta de Valor
+### 🚀 Sobre Mim:
 
 Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas e atualmente **estudando Cibersegurança** na Universidade Estácio. Especializo-me em eliminar gargalos operacionais e tarefas repetitivas, transformando volumes de dados brutos e processos manuais em **fluxos automatizados, eficientes e seguros**.
 
@@ -12,8 +12,7 @@ Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas 
 
 ---
 
-### ⚡ O Que Eu Faço na Prática (Hard Skills & Impacto)
-
+### ⚡ O Que Eu Faço na Prática:
 - 🤖 **Hiperautomação de Processos:** Criação de scripts em Python para auditorias, conciliações financeiras e relatórios operacionais, reduzindo drasticamente falhas humanas e tempo de execução.
 - 📊 **Análise & Gestão de Dados:** Extração, limpeza e manipulação de dados com `Pandas`, `NumPy` e `SQL`, além da construção de consultas estruturadas para suporte à tomada de decisão.
 - 🧠 **IA Generativa & Engenharia de Prompts:** Aplicação estratégica dos melhores modelos de linguagem (`ChatGPT`, `Gemini`, `Claude`) para aceleração de desenvolvimento, automação e ganho contínuo de produtividade.
@@ -22,7 +21,7 @@ Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas 
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Ferramentas:
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
@@ -34,7 +33,7 @@ Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas 
 
 ---
 
-### 🎯 Por Que Me Ter no Seu Time? (Gatilhos de Decisão)
+### 🎯 Por Que Me Ter no Seu Time? 
 
 1. **Visão 360º de TI:** Do suporte de infraestrutura e redes até o desenvolvimento de scripts em Python e boas práticas de segurança — entendo a jornada completa do dado.
 2. **Foco Obsessivo em Eficiência:** Identifico gargalos operacionais onde a empresa perde tempo e recursos, entregando automações diretas para o problema.
