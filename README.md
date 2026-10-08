@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre Mim & Proposta de Valor
 
-Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas (Bolsista) e atualmente **estudando Cibersegurança** na Universidade Estácio. Especializo-me em eliminar gargalos operacionais e tarefas repetitivas, transformando volumes de dados brutos e processos manuais em **fluxos automatizados, eficientes e seguros**.
+Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas e atualmente **estudando Cibersegurança** na Universidade Estácio. Especializo-me em eliminar gargalos operacionais e tarefas repetitivas, transformando volumes de dados brutos e processos manuais em **fluxos automatizados, eficientes e seguros**.
 
 💡 **O meu grande diferencial competitivo:** Combino automações modernas (`Python`, `SQL`) e o uso estratégico de **Inteligência Artificial Generativa/LLMs** com os pilares da **Cibersegurança** (*Secure by Design*). O resultado? Soluções que entregam ganho de produtividade imediato com total integridade e confiabilidade operacional.
 
