@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Sobre Mim & Proposta de Valor
+### 🚀 Sobre Mim 
 
 Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas (Bolsista) e **pós-graduando em Cibersegurança** pela Universidade Estácio. Especializo-me em eliminar gargalos operacionais e tarefas repetitivas, transformando volumes de dados brutos e processos manuais em **fluxos automatizados, altamente integrados e seguros**.
 
@@ -12,7 +12,7 @@ Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas 
 
 ---
 
-### ⚡ O Que Eu Faço na Prática (Hard Skills & Impacto)
+### ⚡ O Que Eu Faço na Prática 
 
 - 🤖 **Hiperautomação de Processos:** Criação de scripts em Python e rotinas avançadas em Excel/VBA para auditoria de notas fiscais, conciliações financeiras e relatórios operacionais, reduzindo drasticamente falhas humanas e tempo de execução.
 - 📊 **Análise & Gestão de Dados:** Extração, limpeza e manipulação de dados com `Pandas`, `NumPy` e `SQL`, além da construção de consultas estruturadas para alimentação de dashboards e suporte à tomada de decisão.
@@ -34,7 +34,7 @@ Sou **Analista de Sistemas** graduado em Análise e Desenvolvimento de Sistemas 
 
 ---
 
-### 🎯 Por Que Me Ter no Seu Time? (Gatilhos de Decisão)
+### 🎯 Por Que Me Ter no Seu Time? 
 
 1. **Visão 360º de TI:** Do suporte de hardware/redes até a arquitetura de scripts em Python e regras de cibersegurança — entendo a jornada completa do dado e da infraestrutura.
 2. **Foco Obsessivo em Eficiência:** Não apenas escrevo código; identifico onde a empresa está perdendo tempo e dinheiro com tarefas manuais e crio a automação certa para o problema.
