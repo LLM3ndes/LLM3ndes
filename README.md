@@ -1,4 +1,4 @@
-# Olá, eu sou o Leandro Mendes 👋
+# Olá, eu sou Leandro Mendes 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandromendes-dev) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llmendes133@gmail.com) [![Portfolio](https://img.shields.io/badge/Status-Disponível_para_Contratação-brightgreen?style=for-the-badge)]()
 
